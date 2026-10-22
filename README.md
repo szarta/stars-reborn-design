@@ -1,3 +1,7 @@
+> **Moved.** Stars Reborn is now developed in a single monorepo:
+> **https://github.com/szarta/stars-reborn** — this component lives under `docs/`.
+> This repository is archived and read-only; its full history was preserved in the monorepo.
+
 # Stars Reborn — Design
 
 **The authoritative developer reference for the Stars Reborn project.**
